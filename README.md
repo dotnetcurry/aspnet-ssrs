@@ -3,7 +3,7 @@ Integrating ASP.NET and SSRS: Calling reports programmatically and sending resul
 
 Sometimes you need to get the results of a report from SSRS and send an e-mail to your users. In this article, we will look at how this is done by calling the SSRS Execution Web service 
 
-Article URL: [http://www.dotnetcurry.com/ShowArticle.aspx?ID=844](http://www.dotnetcurry.com/ShowArticle.aspx?ID=844)
+Article URL: [http://www.dotnecurry.com/ShowArticle.aspx?ID=844](http://www.dotnetcurry.com/ShowArticle.aspx?ID=844)
 
 Author: Mark Kendall
 
